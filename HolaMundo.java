@@ -6,5 +6,6 @@ public class HolaMundo {
         int b = 10;
         System.out.println(b);
         System.out.println("¡Hola, mundo!");
+        System.out.println(a + b);
     }
 }
