@@ -7,5 +7,7 @@ public class HolaMundo {
         System.out.println(b);
         System.out.println("¡Hola, mundo!");
         System.out.println(a + b);
+        char c = 'a';
+        System.out.println(c);
     }
 }
